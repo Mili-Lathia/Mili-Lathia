@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mili-Lathia
 - 👀 I’m interested in web devloper
-- 🌱 I’m currently learning angular if you can help to speed up my learning process by sharing any articls then you are always welcome.
-- 💞️ I’m looking to collaborate on any project that can help me new things about web devloper.
+- 🌱 I’m currently learning angular if you can help to speed up my learning process by sharing any articles then you are always welcome.
+- 💞️ I’m looking to collaborate on any project that can help me to learn new things about web devloper.
 - 📫 you can reach me by my mail id: iamhappy.2297@gmail.com. Thanks for reading me.
 
 <!---
